@@ -45,7 +45,7 @@ To run the code:
 3) Run the driver routine snicar_driver8d.m
 
 
-To enable a larger number of ice effective radii to be used with the model, also download the “ice_optical_properties” folder, and put those files either in your run directory or in a data directory specified by variable “wrkdir” in "snicar8d.m" file. The ice optical properties data is also available at: http://snow.engin.umich.edu/snicarcode/.
+To enable a larger number of ice effective radii to be used with the model, also download the “ice_optical_properties” folder, and put those files either in your “ice_optical_properties” folder within the run directory or in a data directory specified by variable “wrkdir” in "snicar8d.m" file. The ice optical properties data is also available at: http://snow.engin.umich.edu/snicarcode/.
 
 
 =====
