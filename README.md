@@ -17,6 +17,9 @@ Current version: updated by Cenlin He (cenlinhe@ucar.edu), see He et al. 2018 AC
 
 Currently, this model version can only deal with BC-snow internal mixing; Internal mixing between snow and other aerosols will be added later.
 
+Please download the "SNICARv2.zip" for model codes and "ice_optical_properties" folder for snow/ice input data.
+
+The SNICARv2.zip includes a "main code" folder and a "readme.txt" file.
 
 The “main code” folder includes:
 
