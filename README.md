@@ -15,6 +15,7 @@ This version 2.1 (SNICAR_v2.1.zip) includes the following major updates compared
 See version 2 below for other details and features.
 
 Reference for this version 2.1 model:
+
 Julián Gelman Constantin, Lucas Ruiz, Gustavo Villarosa, Valeria Outes, Facundo Bajano, Cenlin He, Hector Bajano, and Laura Dawidowski (2020), Measurements and modeling of snow albedo at Alerce Glacier, Argentina: effects of volcanic ash, snow grain size and cloudiness, The Cryosphere, in review.
 
 
