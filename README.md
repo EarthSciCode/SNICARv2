@@ -1,5 +1,6 @@
 # SNICARv2.1
 Contact: Julian Gelman Constantin (juliangelman@cnea.gov.ar), Cenlin He (cenlinhe@ucar.edu), Mark G. Flanner (flanner@umich.edu)
+
 For educational and research purposes only
 
 We further updated the standalone version of the SNICAR snow model codes to be version 2.1 based on our version 2.
@@ -17,6 +18,12 @@ See version 2 below for other details and features.
 Reference for this version 2.1 model:
 
 Julián Gelman Constantin, Lucas Ruiz, Gustavo Villarosa, Valeria Outes, Facundo Bajano, Cenlin He, Hector Bajano, and Laura Dawidowski (2020), Measurements and modeling of snow albedo at Alerce Glacier, Argentina: effects of volcanic ash, snow grain size and cloudiness, The Cryosphere, in review.
+
+
+
+=====
+
+Updated on Apr 2, 2020.
 
 
 
@@ -79,4 +86,4 @@ To enable a larger number of ice effective radii to be used with the model, also
 
 =====
 
-Updated on Apr 2, 2020.
+Updated on Aug 3, 2018.
